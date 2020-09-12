@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1599954497 source:c:\users\maria\onedrive\desktop\dqsp\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"TP1.h"
+
+1599954497 c:\users\maria\onedrive\desktop\dqsp\tp1\tp1.h
+
+1599954497 source:c:\users\maria\onedrive\desktop\dqsp\tp1\tp1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"TP1.h"
+

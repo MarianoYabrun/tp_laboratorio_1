@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1589654532 source:c:\users\maria\onedrive\escritorio\tp2 mariano yabrun\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"datawarehouse.h"
+
+1589654585 c:\users\maria\onedrive\escritorio\tp2 mariano yabrun\funciones.h
+
+1589654532 c:\users\maria\onedrive\escritorio\tp2 mariano yabrun\datawarehouse.h
+
+1589654532 source:c:\users\maria\onedrive\escritorio\tp2 mariano yabrun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1589654532 source:c:\users\maria\onedrive\escritorio\programacion 1\tp2 mariano yabrun\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"datawarehouse.h"
+
+1589654585 c:\users\maria\onedrive\escritorio\programacion 1\tp2 mariano yabrun\funciones.h
+
+1589654532 c:\users\maria\onedrive\escritorio\programacion 1\tp2 mariano yabrun\datawarehouse.h
+
+1589654532 source:c:\users\maria\onedrive\escritorio\programacion 1\tp2 mariano yabrun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1589654532 source:c:\users\maria\onedrive\escritorio\programacion\tp2 mariano yabrun\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"datawarehouse.h"
+
+1589654585 c:\users\maria\onedrive\escritorio\programacion\tp2 mariano yabrun\funciones.h
+
+1589654532 c:\users\maria\onedrive\escritorio\programacion\tp2 mariano yabrun\datawarehouse.h
+
+1589654532 source:c:\users\maria\onedrive\escritorio\programacion\tp2 mariano yabrun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1589654534 source:c:\users\maria\onedrive\desktop\programacion\tp2 mariano yabrun\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"datawarehouse.h"
+
+1589654586 c:\users\maria\onedrive\desktop\programacion\tp2 mariano yabrun\funciones.h
+
+1589654534 c:\users\maria\onedrive\desktop\programacion\tp2 mariano yabrun\datawarehouse.h
+
+1589654534 source:c:\users\maria\onedrive\desktop\programacion\tp2 mariano yabrun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
